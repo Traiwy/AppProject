@@ -57,7 +57,8 @@
                     Content="Войти" 
                     Style="{StaticResource AccentButtonStyle}"
                     HorizontalAlignment="Stretch"
-                    Height="36">
+                    Height="36"
+                    Click="Login_Click">
                 <Button.KeyboardAccelerators>
                     <KeyboardAccelerator Key="Enter" />
                 </Button.KeyboardAccelerators>

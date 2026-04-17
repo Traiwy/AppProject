@@ -9,7 +9,7 @@
     <ScrollViewer Padding="24">
         <StackPanel Spacing="24" MaxWidth="1000" HorizontalAlignment="Stretch">
             
-            <InfoBar x:Name="AdmissionInfoBar"
+            <InfoBar x:ConnectionId='2' x:Name="AdmissionInfoBar"
                      IsOpen="True"
                      Severity="Informational"
                      Title="Приемная кампания 2026"
@@ -33,12 +33,12 @@
 
                 <StackPanel Grid.Column="2" Background="{ThemeResource LayerFillColorDefaultBrush}" Padding="16" CornerRadius="8" BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}" BorderThickness="1">
                     <TextBlock Text="Ваш средний балл" Style="{StaticResource CaptionTextBlockStyle}" Foreground="{ThemeResource SystemControlPageTextBaseMediumBrush}"/>
-                    <NumberBox x:Name="ScoreInput" Value="0" SpinButtonPlacementMode="Inline" SmallChange="1" Margin="0,4,0,0"/>
+                    <NumberBox x:ConnectionId='6' x:Name="ScoreInput" Value="0" SpinButtonPlacementMode="Inline" SmallChange="1" Margin="0,4,0,0"/>
                 </StackPanel>
             </Grid>
 
             <RelativePanel Background="{ThemeResource SystemControlBackgroundAccentBrush}" Padding="24" CornerRadius="12">
-                <StackPanel x:Name="ActionText">
+                <StackPanel x:ConnectionId='5' x:Name="ActionText">
                     <TextBlock Text="Готовы стать студентом?" Style="{StaticResource SubtitleTextBlockStyle}" Foreground="White"/>
                     <TextBlock Text="Начните путь к карьере мечты прямо сейчас." Foreground="White" Opacity="0.8"/>
                 </StackPanel>
@@ -54,7 +54,7 @@
             <StackPanel Spacing="12">
                 <TextBlock Text="Новости и объявления" Style="{StaticResource SubsetHeaderTextBlockStyle}"/>
                 
-                <ListView x:Name="NewsListView" 
+                <ListView x:ConnectionId='3' x:Name="NewsListView" 
                           SelectionMode="None"
                           IsItemClickEnabled="True">
                     <ListView.ItemTemplate>
@@ -75,3 +75,4 @@
         </StackPanel>
     </ScrollViewer>
 </Window>
+

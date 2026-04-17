@@ -29,7 +29,7 @@
     <AppXManifest Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppxManifest.xml">
       <PackagePath>AppxManifest.xml</PackagePath>
       <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
-      <Modified>2026-04-17T14:49:48.725</Modified>
+      <Modified>2026-04-17T15:10:54.459</Modified>
     </AppXManifest>
   </ItemGroup>
   <ItemGroup>
@@ -39,11 +39,11 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\apphost.exe">
       <PackagePath>AppProject.exe</PackagePath>
-      <Modified>2026-04-17T14:49:48.220</Modified>
+      <Modified>2026-04-17T15:10:53.974</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppProject.dll">
       <PackagePath>AppProject.dll</PackagePath>
-      <Modified>2026-04-17T14:49:48.215</Modified>
+      <Modified>2026-04-17T15:10:53.970</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\.nuget\packages\microsoft.netcore.app.runtime.win-x64\8.0.25\runtimes\win-x64\lib\net8.0\Microsoft.CSharp.dll">
       <PackagePath>Microsoft.CSharp.dll</PackagePath>
@@ -927,7 +927,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppProject.deps.json">
       <PackagePath>AppProject.deps.json</PackagePath>
-      <Modified>2026-04-17T12:00:24.144</Modified>
+      <Modified>2026-04-17T15:07:03.882</Modified>
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\Assets\LockScreenLogo.scale-200.png">
       <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
@@ -963,7 +963,7 @@
     </AppxPackagedFile>
     <AppxPackagedFile Include="C:\Users\USER\Desktop\winui\AppProject\AppProject\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\resources.pri">
       <PackagePath>resources.pri</PackagePath>
-      <Modified>2026-04-17T14:49:48.503</Modified>
+      <Modified>2026-04-17T15:07:04.035</Modified>
     </AppxPackagedFile>
   </ItemGroup>
   <ItemGroup>

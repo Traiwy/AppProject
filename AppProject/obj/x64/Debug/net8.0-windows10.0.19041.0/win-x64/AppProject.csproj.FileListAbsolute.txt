@@ -270,3 +270,9 @@ C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10
 C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\LoginWindow.xaml
 C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\MainWindow.xbf
 C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\LoginWindow.xbf
+C:\Users\USER\Desktop\winui\AppProject\AppProject\bin\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\HomeWindow.xbf
+C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\HomeWindow.g.i.cs
+C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\HomeWindow.g.cs
+C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\HomeWindow.xaml
+C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\window\HomeWindow.xbf
+C:\Users\USER\Desktop\winui\AppProject\AppProject\obj\x64\Debug\net8.0-windows10.0.19041.0\win-x64\AppProject.sourcelink.json
