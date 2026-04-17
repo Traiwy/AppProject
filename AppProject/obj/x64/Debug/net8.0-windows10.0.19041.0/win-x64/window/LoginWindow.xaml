@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Window
+    x:Class="AppProject.LoginWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Title="Авторизация">
+
+    <Window.SystemBackdrop>
+        <MicaBackdrop Kind="BaseAlt" />
+    </Window.SystemBackdrop>
+
+    <Grid>
+        <StackPanel VerticalAlignment="Center" 
+                    HorizontalAlignment="Center" 
+                    Width="360" 
+                    Padding="32" 
+                    Spacing="12"
+                    Background="{ThemeResource LayerFillColorDefaultBrush}"
+                    CornerRadius="12"
+                    BorderBrush="{ThemeResource CardStrokeColorDefaultBrush}"
+                    BorderThickness="1">
+
+            <FontIcon Glyph="&#xE77B;" 
+                      FontSize="42" 
+                      FontFamily="{ThemeResource SymbolThemeFontFamily}" 
+                      Foreground="{ThemeResource SystemAccentColor}"
+                      Margin="0,0,0,8"/>
+            
+            <TextBlock Text="Вход в систему" 
+                       Style="{StaticResource TitleTextBlockStyle}" 
+                       HorizontalAlignment="Center" 
+                       Margin="0,0,0,20"/>
+
+            <TextBox x:ConnectionId='2' x:Name="UsernameBox" 
+                     Header="Логин" 
+                     PlaceholderText="Введите ваш никнейм"
+                     HorizontalAlignment="Stretch"/>
+
+            <PasswordBox x:ConnectionId='3' x:Name="PasswordBox" 
+                         Header="Пароль" 
+                         PlaceholderText="Введите ваш пароль"
+                         PasswordRevealMode="Peek"
+                         HorizontalAlignment="Stretch"/>
+
+            <Grid Margin="0,4,0,12">
+                <CheckBox Content="Запомнить меня" FontSize="12"/>
+                <HyperlinkButton Content="Забыли пароль?" 
+                                 FontSize="12" 
+                                 HorizontalAlignment="Right" 
+                                 Padding="0"/>
+            </Grid>
+
+            <Button x:ConnectionId='4' x:Name="LoginButton"
+                    Content="Войти" 
+                    Style="{StaticResource AccentButtonStyle}"
+                    HorizontalAlignment="Stretch"
+                    Height="36">
+                <Button.KeyboardAccelerators>
+                    <KeyboardAccelerator Key="Enter" />
+                </Button.KeyboardAccelerators>
+            </Button>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Margin="0,12,0,0">
+                <TextBlock Text="Нет аккаунта?" VerticalAlignment="Center" FontSize="12" Foreground="{ThemeResource SystemControlPageTextBaseMediumBrush}"/>
+                <HyperlinkButton Content="Создать сейчас" FontSize="12"/>
+            </StackPanel>
+            
+        </StackPanel>
+    </Grid>
+</Window>
+

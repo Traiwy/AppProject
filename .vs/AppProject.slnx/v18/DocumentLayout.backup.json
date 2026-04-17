@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|c:\\users\\user\\desktop\\winui\\appproject\\appproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|c:\\users\\user\\desktop\\winui\\appproject\\appproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|c:\\users\\user\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.260222000\\include\\deploymentmanagerautoinitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|c:\\users\\user\\desktop\\winui\\appproject\\appproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{99F56C5D-81A8-4D91-8063-EB917C50890D}|AppProject\\AppProject.csproj|solutionrelative:appproject\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "AppProject\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\MainWindow.xaml.cs",
+              "RelativeToolTip": "AppProject\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:48:12.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "AppProject\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\MainWindow.xaml",
+              "RelativeToolTip": "AppProject\\MainWindow.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T13:48:04.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeploymentManagerAutoInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.260222000\\include\\DeploymentManagerAutoInitializer.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.260222000\\include\\DeploymentManagerAutoInitializer.cs",
+              "ToolTip": "C:\\Users\\USER\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.260222000\\include\\DeploymentManagerAutoInitializer.cs",
+              "RelativeToolTip": "..\\..\\..\\.nuget\\packages\\microsoft.windowsappsdk.foundation\\1.8.260222000\\include\\DeploymentManagerAutoInitializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-16T13:48:02.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\App.xaml",
+              "RelativeDocumentMoniker": "AppProject\\App.xaml",
+              "ToolTip": "C:\\Users\\USER\\Desktop\\winui\\AppProject\\AppProject\\App.xaml",
+              "RelativeToolTip": "AppProject\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-16T13:48:00.026Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

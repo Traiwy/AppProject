@@ -1,0 +1,1 @@
+C:\Users\USER\Desktop\winui\AppProject\AppProject\AppProject.csproj;x64
